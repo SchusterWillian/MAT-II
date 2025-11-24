@@ -1,5 +1,8 @@
-body{
+body {
 background-color: rgb(219, 219, 193);
-text-align: center;
+
+}
+.one{
+    text-align: center;
 text-align: justify;
 }
